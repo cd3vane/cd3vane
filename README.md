@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/616707274794336273">
   <img align="left" alt="Charles' Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -33,7 +33,7 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/),
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 📊 This week I spent my time on:
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.82 % 
@@ -42,8 +42,7 @@ JSON         9 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-## 📈 My Github Stats
+ 📈 ** My Github Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cd3vane&show_icons=true&theme=gotham" alt="cd3vane" />
 
