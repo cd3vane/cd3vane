@@ -31,7 +31,7 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who 
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/fee48593-c6d8-4166-8856-2f12ea7ace66.png" /></a>
+<p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/fee48593-c6d8-4166-8856-2f12ea7ace66.png" /></a>
 <!--END_SECTION:waka-->
 
  📈 **My Github Stats**
