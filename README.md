@@ -1,5 +1,5 @@
 ### Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/616707274794336273">
+<a href="https://discord.gg/cd3vane#2387">
   <img align="left" alt="Charles' Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/cd3vane">
