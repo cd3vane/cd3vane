@@ -36,7 +36,7 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who 
 
  📈 **My Github Stats**
 
- <img src="https://github-readme-stats.vercel.app/api?username=cd3vane&show_icons=true&theme=gotham" alt="cd3vane" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cd3vane&show_icons=true&theme=gotham" alt="cd3vane" />
 
 
 
