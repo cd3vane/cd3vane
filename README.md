@@ -1,4 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/616707274794336273">
   <img align="left" alt="Charles' Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, i'm [Charles DeVane](https://cd3vane.dev/),
+Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who is currently working on learning blockchain technology and creating smart contracts for Ethereum with the Solidity programming language as well as continuing to improve my abilities as a Frontend developer with React.
   
 - 💼 Collaboration Inquiries? feel free to send me an [email](mailto:devane.charles98@gmail.com)
 - 💬 ask me about anything, i am happy to help;
