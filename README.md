@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/cd3vane/">
   <img align="left" alt="Charles' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Charles' Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cd3vane.cd3vane)
 
@@ -26,6 +23,8 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -35,7 +34,7 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who 
 <a align="center" href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/a4fe0c9a-9591-49b0-a453-2af070e12a96.png" /></a>
 <!--END_SECTION:waka-->
 
- 📈 ** My Github Stats**
+ 📈 **My Github Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cd3vane&show_icons=true&theme=gotham" alt="cd3vane" />
 
