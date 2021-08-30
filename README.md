@@ -35,11 +35,7 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/),
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
-```text
-JavaScript   3 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.82 % 
-JSX          2 hrs 54 mins   ███████████░░░░░░░░░░░░░░   43.73 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-```
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/a4fe0c9a-9591-49b0-a453-2af070e12a96.png" /></a>
 <!--END_SECTION:waka-->
 
  📈 ** My Github Stats**
