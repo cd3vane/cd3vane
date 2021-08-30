@@ -31,12 +31,12 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who 
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
-<a align="center" href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/a4fe0c9a-9591-49b0-a453-2af070e12a96.png" /></a>
+<p align="center"><a  href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/a4fe0c9a-9591-49b0-a453-2af070e12a96.png" /></a>
 <!--END_SECTION:waka-->
 
  📈 **My Github Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cd3vane&show_icons=true&theme=gotham" alt="cd3vane" />
+ <img src="https://github-readme-stats.vercel.app/api?username=cd3vane&show_icons=true&theme=gotham" alt="cd3vane" />
 
 
 
