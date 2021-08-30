@@ -17,9 +17,6 @@
 <br />
 
 Hi, i'm [Charles DeVane](https://cd3vane.dev/),
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Collaboration Inquiries? feel free to send me an [email](mailto:devane.charles98@gmail.com)
 - 💬 ask me about anything, i am happy to help;
@@ -35,7 +32,7 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/),
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/a4fe0c9a-9591-49b0-a453-2af070e12a96.png" /></a>
+<a align="center" href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/a4fe0c9a-9591-49b0-a453-2af070e12a96.png" /></a>
 <!--END_SECTION:waka-->
 
  📈 ** My Github Stats**
