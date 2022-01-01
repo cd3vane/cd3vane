@@ -29,11 +29,6 @@ Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
-<p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cd3vane/fee48593-c6d8-4166-8856-2f12ea7ace66.png" /></a>
-<!--END_SECTION:waka-->
-
  📈 **My Github Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cd3vane&show_icons=true&theme=gotham" alt="cd3vane" />
