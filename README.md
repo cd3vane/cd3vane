@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, i'm [Charles DeVane](https://cd3vane.dev/), I am a full-stack developer who is currently working on learning blockchain technology and creating smart contracts for Ethereum with the Solidity programming language as well as continuing to improve my abilities as a Frontend developer with React.
+Hi, i'm [Charles DeVane](https://cd3vane.dev/), a web developer living in Boca Raton, Florida. I'm currently working with the MERN stack and am constantly improving my development skills. I have been passionate about programming for the last 3 years and have recently become more interested in exploring blockchain technology as well.
   
 - 💼 Collaboration Inquiries? feel free to send me an [email](mailto:devane.charles98@gmail.com)
 - 💬 ask me about anything, i am happy to help;
